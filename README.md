@@ -1,5 +1,5 @@
 # Friendly Hangout 😍 ❤️ 💌 🏩
-
+- A safe space for students to eplore their wildest dreams and meet up with new people. This is not intended for anyone outside of highschool, and you will be banned if your age is not atleast on the clock
 
 # Weekly assignments
 - [week 0](https://github.com/BillyCherres/squirty_grinnellians/wiki/Week-0)
