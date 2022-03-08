@@ -14,6 +14,7 @@ Rohan  | [Indi Github repo]() |[Commits]()|
 Nichole - Grinnell :heart_eyes:  | [Indi Girhub repo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjsyMzWurT2AhVtJkQIHTuxDtsQFnoECAMQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fnicholehenning%2F&usg=AOvVaw2DbF8sDjtYTF428LnkSTf_) |[Commits]()| 
 
 ### Project Check Points
+- about the creators page
 - create a tinder profile
 - rate other people
 - search other people
