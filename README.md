@@ -1,4 +1,4 @@
-# Friendly Hookups 😍 🍆 💦 🍑
+# Friendly Hangout 😍 ❤️ 💌 🏩
 
 
 
