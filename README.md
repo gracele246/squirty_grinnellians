@@ -1,11 +1,11 @@
 # Friendly Hangout 😍 ❤️ 💌 🏩
 
 
+# Weekly assignments
+- [week 0](https://github.com/BillyCherres/squirty_grinnellians/wiki/Week-0)
 
 
-
-
-People | Github Profile | Commits |
+People | Github repo | Commits |
 -------------  | -------------- | -------------- |
 Billy  | [Indi Github repo](https://github.com/BillyCherres/tri3apcsaindi/blob/main/README.md) |[Commits](https://github.com/BraydenBasinger/Grinnellians_And_2_Irrelevants/commits?author=BillyCherres)| 
 Brayden  | [Indi Github repo]() |[Commits](https://github.com/BraydenBasinger/Grinnellians_And_2_Irrelevants/commits?author=BraydenBasinger)| 
