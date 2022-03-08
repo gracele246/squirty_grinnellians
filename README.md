@@ -18,6 +18,7 @@ Nichole - Grinnell :heart_eyes:  | [Indi Girhub repo](https://www.google.com/url
 - login system
 - feedback page
 - about page
+- finding a prom date section
 
 
 
