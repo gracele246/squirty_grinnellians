@@ -1,4 +1,4 @@
-# [Friendly Hangout](friendlyhangout.tk) 😍 ❤️ 💌 🏩
+# Friendly Hangout 😍 ❤️ 💌 🏩
 - A safe space for students to explore their wildest fantasies and meet up with new people. This is not intended for anyone outside of highschool, and you will be banned if your age is not atleast on the clock
 
 # Weekly assignments
