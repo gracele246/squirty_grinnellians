@@ -23,7 +23,7 @@ Nichole - Grinnell :heart_eyes:  | [Indi Girhub repo](https://www.google.com/url
 - feedback page
 - about page
 - finding a prom date section
-- surveys like bdsm and compatibility surveys
+- surveys compatibility surveys
 - astrology compatibility function
 
 
