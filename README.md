@@ -7,7 +7,7 @@
 
 People | Github repo | Commits |
 -------------  | -------------- | -------------- |
-Billy  | [Indi Github repo](https://github.com/BillyCherres/indii3/blob/main/README.md) |[Commits](https://github.com/BraydenBasinger/Grinnellians_And_2_Irrelevants/commits?author=BillyCherres)| 
+Billy  | [Indi Github repo](https://github.com/BillyCherres/indii3/blob/main/README.md) |[Commits](https://github.com/BillyCherres/squirty_grinnellians/commits?author=BillyCherres)| 
 Brayden  | [Indi Github repo]() |[Commits](https://github.com/BraydenBasinger/Grinnellians_And_2_Irrelevants/commits?author=BraydenBasinger)| 
 Dane |[Indi Github repo](https://github.com/D1935827V/Dane) |[Commits](https://github.com/BraydenBasinger/Grinnellians_And_2_Irrelevants/commits?author=D1935827V)|
 Dylan |[Indi Github repo]() |[Commits]()| 
