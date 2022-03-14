@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Friendly Hangout 😍 ❤️ 💌 🏩
+- A safe space for students to explore their wildest fantasies and meet up with new people. This is not intended for anyone outside of highschool, and you will be banned if your age is not atleast on the clock
+- [website link](https://friendlyhangout.tk)
+# Weekly assignments
+- [Billy Dylan Dane Week 0](https://github.com/BillyCherres/squirty_grinnellians/issues/2)
 
-You can use the [editor on GitHub](https://github.com/BillyCherres/squirty_grinnellians/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+People | Github repo | Commits |
+-------------  | -------------- | -------------- |
+Billy  | [Indi Github repo](https://github.com/BillyCherres/indii3/blob/main/README.md) |[Commits](https://github.com/BillyCherres/squirty_grinnellians/commits?author=BillyCherres)| 
+Brayden  | [Indi Github repo]() |[Commits](https://github.com/BraydenBasinger/Grinnellians_And_2_Irrelevants/commits?author=BraydenBasinger)| 
+Dane |[Indi Github repo](https://github.com/D1935827V/Dane) |[Commits](https://github.com/BraydenBasinger/Grinnellians_And_2_Irrelevants/commits?author=D1935827V)|
+Dylan |[Indi Github repo]() |[Commits]()| 
+Rohan  | [Indi Github repo]() |[Commits]()| 
+Nichole - Grinnell :heart_eyes:  | [Indi Girhub repo](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjsyMzWurT2AhVtJkQIHTuxDtsQFnoECAMQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fnicholehenning%2F&usg=AOvVaw2DbF8sDjtYTF428LnkSTf_) |[Commits]()| 
 
-### Markdown
+### Project Check Points
+- about the creators page
+- create a tinder profile
+- rate other people
+- search other people
+- login system
+- feedback page
+- about page
+- finding a prom date section
+- surveys compatibility surveys
+- astrology compatibility function
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BillyCherres/squirty_grinnellians/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
