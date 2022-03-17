@@ -5,7 +5,7 @@
 
 ---
 # Menu  
-- <a href="/scrumboardassignments.md">Sponsor assignments</a>  
+- <a href="/https://billycherres.github.io/scrumboardassignments.md">Sponsor assignments</a>  
 - <a href="/weeklyassignments.md">weekly assignments</a>  
 ---
 
