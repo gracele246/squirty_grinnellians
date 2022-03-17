@@ -5,7 +5,8 @@
 
 ---
 # Menu  
-- [scrum board (personal assignments)](https://github.com/BillyCherres/squirty_grinnellians/projects/1#card-79224916). [week 1]().   
+- <a href="/scrumboardassignments.md">Sponsor assignments</a>  
+- <a href="/weeklyassignments.md">weekly assignments</a>  
 ---
 
 # Weekly assignments
