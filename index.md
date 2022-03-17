@@ -1,6 +1,13 @@
 # Friendly Hangout 😍 ❤️ 💌 🏩
 - A safe space for students to explore their wildest fantasies and meet up with new people. This is not intended for anyone outside of highschool, and you will be banned if your age is not atleast on the clock
 - [website link](https://friendlyhangout.tk)
+
+
+---
+# Menu  
+- [scrum board (personal assignments)](https://github.com/BillyCherres/squirty_grinnellians/projects/1#card-79224916). [week 1]().   
+---
+
 # Weekly assignments
 - [week 0 (Billy, Dane, Dylan)](https://github.com/BillyCherres/squirty_grinnellians/issues/2)
 - [week 0 (Brayden, Rohan)](https://github.com/BillyCherres/squirty_grinnellians/issues/3)
