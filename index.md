@@ -5,7 +5,7 @@
 
 ---
 # Menu  
-- [srumboard assignments](scrumboardassignments.md)
+- [Sponsor assignments](scrumboardassignments.md)
 - [weekly assignmnets](weeklyassignments.md)
 ---
 
