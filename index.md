@@ -5,19 +5,9 @@
 
 ---
 # Menu  
-- <a href="/https://billycherres.github.io/scrumboardassignments.md">Sponsor assignments..</a>  
-- <a href="/weeklyassignments.md">weekly assignments</a>  
-- burh
 - [srumboard assignments](scrumboardassignments.md)
 - [weekly assignmnets](weeklyassignments.md)
 ---
-
-# Weekly assignments
-- [week 0 (Billy, Dane, Dylan)](https://github.com/BillyCherres/squirty_grinnellians/issues/2)
-- [week 0 (Brayden, Rohan)](https://github.com/BillyCherres/squirty_grinnellians/issues/3)
-
-
-
 
 
 People | Github repo | Commits |
